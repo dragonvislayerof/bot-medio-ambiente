@@ -60,4 +60,4 @@ async def reci(ctx):
     await ctx.send("Cocina al vapor desde el mismo plato.")
     await ctx.send("Alfombrilla para el baño.")
 
-bot.run("MTI1NjY0MTM2MzA5MzQ4NzcwNg.G8uEAP.HMweETtWEemAOvJhsOqxb5kmbETAhZ6YjWyqsM")
+bot.run("")
